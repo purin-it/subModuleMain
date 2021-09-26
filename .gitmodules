@@ -1,3 +1,4 @@
 [submodule "sub/dir"]
 	path = sub/dir
 	url = ../subModuleSub.git
+	branch = main
